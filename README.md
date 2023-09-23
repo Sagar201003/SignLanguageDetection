@@ -1,2 +1,3 @@
 # SignLanguageDetection
-Language used :-  Python , Tools :- Scikit-learn, OpenCV , mediapipe.
+Language used :-  Python 
+Tools :- Scikit-learn, OpenCV , mediapipe.
